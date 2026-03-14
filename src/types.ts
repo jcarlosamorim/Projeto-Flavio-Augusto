@@ -1,3 +1,5 @@
+export type ConnectionState = 'idle' | 'connecting' | 'active' | 'error';
+
 export interface ProductInfo {
   name: string;
   description: string;
