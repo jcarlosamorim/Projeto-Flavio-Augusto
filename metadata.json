@@ -1,0 +1,7 @@
+{
+  "name": "Remix: SalesMaster Roleplay",
+  "description": "Treinamento de vendas em tempo real com IA usando a metodologia de 7 passos de Flávio Augusto.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
